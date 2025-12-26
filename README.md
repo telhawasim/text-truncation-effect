@@ -68,3 +68,23 @@ This package is based on the original work/concept demonstrated by Kavsoft:
 [Kavsoft Youtube Channel](https://www.youtube.com/@Kavsoft)
 
 > Note: This project is not affiliated with or endorsed by Kavsoft.
+
+## Contribution
+
+Thanks for your interest in contributing!
+
+## Contribution policy (PRs only)
+
+- Please **do not push directly to `main`**.
+- All changes must be submitted via a **Pull Request (PR)**.
+- Maintainers will review and approve PRs before merging.
+
+GitHub branch protection is enabled on `main`, so direct pushes are blocked.
+
+## How to contribute
+
+1. **Fork** the repository
+2. Create a new branch from `main`:
+
+   ```bash
+   git checkout -b feature/your-change
