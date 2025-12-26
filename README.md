@@ -73,7 +73,7 @@ This package is based on the original work/concept demonstrated by Kavsoft:
 
 Thanks for your interest in contributing!
 
-## Contribution policy (PRs only)
+### Contribution policy (PRs only)
 
 - Please **do not push directly to `main`**.
 - All changes must be submitted via a **Pull Request (PR)**.
@@ -81,7 +81,7 @@ Thanks for your interest in contributing!
 
 GitHub branch protection is enabled on `main`, so direct pushes are blocked.
 
-## How to contribute
+### How to contribute
 
 1. **Fork** the repository
 2. Create a new branch from `main`:
