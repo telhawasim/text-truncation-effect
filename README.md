@@ -27,7 +27,7 @@ A SwiftUI truncation + expand effect for `Text`:
 
 ```swift
 dependencies: [
-  .package(url: "https://github.com/telhawasim/TextTruncationEffect.git", from: "1.0.0")
+  .package(url: "https://github.com/telhawasim/TextTruncationEffect.git", from: "1.0.1")
 ]
 ```
 
