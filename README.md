@@ -7,7 +7,7 @@ A SwiftUI truncation + expand effect for `Text`:
 
 ## Requirements
 
-- iOS 26.0+ (uses SwiftUI `onGeometryChange`)
+- iOS 18.0+ (uses SwiftUI `onGeometryChange`)
 - Swift 6.0+
 - Xcode 16+ recommended
 
